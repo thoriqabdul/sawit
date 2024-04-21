@@ -28,4 +28,6 @@ build
 
 # Generated
 generated
+
+#env environment
 .env
